@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey!
+### I am Andrey JS/node.js developer 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreyZlobin)](https://github.com/AndreyZlobin/github-readme-stats)
 
 <!--
