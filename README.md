@@ -23,4 +23,4 @@ I have a deep affection for open source projects and contribute whenever I get t
 ---
 If you're interested in collaborating, please reach out!
 
-⭐️ From [Andrey](https://github.com/AndreyZlobinhttps://github.com/AndreyZlobin)
+⭐️ From [Andrey](https://github.com/AndreyZlobin)
