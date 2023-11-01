@@ -21,6 +21,6 @@ I'm a **Full Stack Engineer** with a profound understanding and extensive experi
 I have a deep affection for open source projects and contribute whenever I get the opportunity.
 
 ---
-If you're interested in collaborating, please reach out!
+If you're interested in a collaboration, please be in touch!
 
 ⭐️ From [Andrey](https://github.com/AndreyZlobin)
